@@ -1,2 +1,1 @@
-# Fancy-Calculator
-A Simple fancy Looking Calculator
+A Fancy Looking Calculator
